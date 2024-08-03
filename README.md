@@ -1,16 +1,7 @@
-# pomodoro
+플러터 연습 2
 
-A new Flutter project.
+25분 타이머로 한 번 집중하고 5분 쉬는 Pomodoro 기법을 이용한 앱을 만들었다.
 
-## Getting Started
+노마드 코더 플러터 코스에서 도움을 받았고 별도로 리셋 기능을 추가했다
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Theme을 이용하는 법하고 여러 기본 UI 위젯, State의 기본(Stateful 위젯),  컬렉션 스프레드 연산자(...)등을 배웠다.
